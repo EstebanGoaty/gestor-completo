@@ -1,0 +1,4 @@
+*.o
+gestor
+gestor.exe
+*.out
